@@ -17,3 +17,4 @@ Input:
 Output:
 <pre><code>140
 </code></pre>
+Eggplants are racist
